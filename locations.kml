@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Gutters 4 Less.</name>
+		<atom:author>
+			<atom:name>Colton Hibbert</atom:name>
+		</atom:author>
+		<atom:link rel="related" href="https://www.gutters4lessga.com" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Gutters 4 Less]]></name>
+				<address><![CDATA[2005 Cottage Grove Way, Cumming, GA, 30040, United States]]></address>
+				<phoneNumber><![CDATA[678-883-7649]]></phoneNumber>
+				<description><![CDATA[Gutters 4 Less, 2005 Cottage Grove Way, Cumming, Georgia, USA, 678-883-7649]]></description>
+				<Point>
+					<coordinates>-84.1689224,34.1681668,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
